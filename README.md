@@ -17,7 +17,7 @@ scrot abc.png
 
 **On Mac**
 ```bash
-screenshot abc.png
+screencapture abc.png
 ```
 
 ### Mouse click
